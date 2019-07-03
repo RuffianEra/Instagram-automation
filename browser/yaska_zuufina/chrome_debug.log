@@ -1,0 +1,9 @@
+[15228:5940:0703/145811.116:WARNING:discovery_network_list_win.cc(196)] Failed to open Wlan client handle: 1062
+[15228:15444:0703/145811.145:WARNING:leveldb_database.cc(106)] Unable to open D:\AddProject\Instagram-automation\browser\yaska_zuufina\Default\shared_proto_db: Invalid argument: D:\AddProject\Instagram-automation\browser\yaska_zuufina\Default\shared_proto_db: does not exist (create_if_missing is false)
+[15228:9692:0703/145811.262:WARNING:CONSOLE(0)] "HTML Imports is deprecated and will be removed in M73, around March 2019. Please use ES modules instead. See https://www.chromestatus.com/features/5144752345317376 for more details.", source:  (0)
+[15228:9692:0703/145821.487:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.instagram.com/accounts/login/?source=auth_switcher (0)
+[15228:9692:0703/145823.734:INFO:CONSOLE(0)] "The resource https://www.instagram.com/static/bundles/es6/FBSignupPage.css/434112387c35.css was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source:  (0)
+[15228:16304:0703/150944.428:ERROR:browser_process_sub_thread.cc(221)] Waited 220 ms for network service
+[15228:9692:0703/150944.432:WARNING:pref_notifier_impl.cc(36)] Pref observer for third_party_blocking_enabled found at shutdown.
+[15228:9692:0703/150944.432:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[15228:9692:0703/150944.432:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

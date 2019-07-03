@@ -1,0 +1,6 @@
+[7464:16164:0703/151305.904:WARNING:discovery_network_list_win.cc(196)] Failed to open Wlan client handle: 1062
+[7464:12200:0703/151305.975:WARNING:leveldb_database.cc(106)] Unable to open D:\AddProject\Instagram-automation\browser\tanichka_kryukova\Default\shared_proto_db: Invalid argument: D:\AddProject\Instagram-automation\browser\tanichka_kryukova\Default\shared_proto_db: does not exist (create_if_missing is false)
+[7464:7412:0703/151453.437:ERROR:browser_process_sub_thread.cc(221)] Waited 219 ms for network service
+[7464:14620:0703/151453.440:WARNING:pref_notifier_impl.cc(36)] Pref observer for third_party_blocking_enabled found at shutdown.
+[7464:14620:0703/151453.440:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[7464:14620:0703/151453.440:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

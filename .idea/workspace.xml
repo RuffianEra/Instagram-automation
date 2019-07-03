@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/GUI/Chart.java" line="213" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcd96b45-516c-4d07-86bf-f164648ac9a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instagram-automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/BrowserMetrics-spare.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/BrowserMetrics/BrowserMetrics-5D1C5581-3A38.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Crashpad/metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Crashpad/settings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/CrashpadMetrics-active.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/BudgetDatabase/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/BudgetDatabase/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/BudgetDatabase/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/BudgetDatabase/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/BudgetDatabase/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/BudgetDatabase/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000007" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000008" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00000a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00000b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00000c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00000d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00000e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00000f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000010" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000011" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000012" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000013" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000014" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000015" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000016" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000017" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000018" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000019" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00001a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00001c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00001d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00001e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000021" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000024" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000026" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000027" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_000029" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00002b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00002c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00002d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/f_00002e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/00ead535da6fd484_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/01333028e61baca1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/03721d315bfeb933_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/09569a2c2832e9a6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/1ec102d70716017d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/59cf6e2bcf738dd1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/5ef9002859122be0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/796e5ddbae2e82c6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/9918afeca34c0e24_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/9b2b81daddeaa93c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/a22632da1313d623_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/aa704b42672d9c39_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/abd78a16832525c2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/c42bc66bb644e567_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/cbb75b2c60bdb7fd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/d365f6cd893b1e1f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/d6a2d0c67cdc6832_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/e1903faa86ef4ffa_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/f4bcd3521ced1297_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Code Cache/js/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Cookies-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Current Session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Current Tabs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension Rules/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension Rules/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension Rules/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension Rules/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension Rules/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension Rules/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension State/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension State/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension State/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension State/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension State/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Extension State/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Favicons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Favicons-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/AvailabilityDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/AvailabilityDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/AvailabilityDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/AvailabilityDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/AvailabilityDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/EventDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/EventDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/EventDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/EventDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/EventDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Feature Engagement Tracker/EventDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/GPUCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/GPUCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/GPUCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/GPUCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/GPUCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/History" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/History Provider Cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/History-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Last Session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Last Tabs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Local Storage/leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Local Storage/leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Local Storage/leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Local Storage/leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Local Storage/leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Local Storage/leveldb/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Login Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Login Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Network Action Predictor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Network Action Predictor-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Network Persistent State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Platform Notifications/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Platform Notifications/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Platform Notifications/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Platform Notifications/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Platform Notifications/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Platform Notifications/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/QuotaManager" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/QuotaManager-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Secure Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/56e9eb17-bafe-4134-ab6c-de0db5214004/8f115e7edf3edaea_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/56e9eb17-bafe-4134-ab6c-de0db5214004/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/56e9eb17-bafe-4134-ab6c-de0db5214004/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/763b7adb-2ed9-4232-bf02-d7457e8fa158/b23c6762cf5da770_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/763b7adb-2ed9-4232-bf02-d7457e8fa158/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/763b7adb-2ed9-4232-bf02-d7457e8fa158/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/Database/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/Database/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/Database/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/Database/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/Database/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/Database/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/ScriptCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Service Worker/ScriptCache/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Session Storage/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Session Storage/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Session Storage/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Session Storage/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Session Storage/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Session Storage/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Shortcuts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Shortcuts-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Site Characteristics Database/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Site Characteristics Database/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Site Characteristics Database/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Site Characteristics Database/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Site Characteristics Database/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Site Characteristics Database/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Sync Data/LevelDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Sync Data/LevelDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Sync Data/LevelDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Sync Data/LevelDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Sync Data/LevelDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Sync Data/LevelDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Top Sites" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Top Sites-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Translate Ranker Model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/TransportSecurity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Visited Links" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Web Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/Web Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/data_reduction_proxy_leveldb/000015.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/data_reduction_proxy_leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/data_reduction_proxy_leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/data_reduction_proxy_leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/data_reduction_proxy_leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/data_reduction_proxy_leveldb/MANIFEST-000014" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/databases/Databases.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/databases/Databases.db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/previews_opt_out.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/previews_opt_out.db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/metadata/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/metadata/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/metadata/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/metadata/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/metadata/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Default/shared_proto_db/metadata/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/DevToolsActivePort" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/First Run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Last Version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/Local State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/ShaderCache/GPUCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/ShaderCache/GPUCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/ShaderCache/GPUCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/ShaderCache/GPUCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/ShaderCache/GPUCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/chrome_debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/belyy_bugakova/chrome_shutdown_ms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/BrowserMetrics-spare.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/BrowserMetrics/BrowserMetrics-5D1C5581-1D28.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Crashpad/metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Crashpad/settings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/CrashpadMetrics-active.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/BudgetDatabase/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/BudgetDatabase/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/BudgetDatabase/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/BudgetDatabase/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/BudgetDatabase/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/BudgetDatabase/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000007" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000008" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00000a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00000b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00000c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00000d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00000e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00000f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000010" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000011" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000012" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000013" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000014" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000015" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000016" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000018" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000019" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00001a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00001b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00001d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_00001f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000021" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/f_000023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/00ead535da6fd484_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/01333028e61baca1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/03721d315bfeb933_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/09569a2c2832e9a6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/1ec102d70716017d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/59cf6e2bcf738dd1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/5ef9002859122be0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/796e5ddbae2e82c6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/9918afeca34c0e24_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/9b2b81daddeaa93c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/a22632da1313d623_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/aa704b42672d9c39_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/abd78a16832525c2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/c42bc66bb644e567_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/cbb75b2c60bdb7fd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/d365f6cd893b1e1f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/d6a2d0c67cdc6832_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/e1903faa86ef4ffa_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/f4bcd3521ced1297_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Code Cache/js/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Cookies-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Current Session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Current Tabs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension Rules/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension Rules/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension Rules/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension Rules/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension Rules/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension Rules/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension State/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension State/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension State/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension State/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension State/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Extension State/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Favicons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Favicons-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/AvailabilityDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/AvailabilityDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/AvailabilityDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/AvailabilityDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/AvailabilityDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/EventDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/EventDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/EventDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/EventDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/EventDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Feature Engagement Tracker/EventDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/GPUCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/GPUCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/GPUCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/GPUCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/GPUCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/History" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/History Provider Cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/History-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Last Session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Last Tabs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Local Storage/leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Local Storage/leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Local Storage/leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Local Storage/leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Local Storage/leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Local Storage/leveldb/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Login Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Login Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Network Action Predictor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Network Action Predictor-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Network Persistent State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Platform Notifications/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Platform Notifications/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Platform Notifications/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Platform Notifications/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Platform Notifications/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Platform Notifications/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/QuotaManager" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/QuotaManager-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Secure Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/b9d78133-7882-4c55-a8f7-ed80b7bf9cfe/b23c6762cf5da770_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/b9d78133-7882-4c55-a8f7-ed80b7bf9cfe/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/b9d78133-7882-4c55-a8f7-ed80b7bf9cfe/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/c6af224d-4b51-4f5c-923e-5d40818d1a10/8f115e7edf3edaea_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/c6af224d-4b51-4f5c-923e-5d40818d1a10/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/c6af224d-4b51-4f5c-923e-5d40818d1a10/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/CacheStorage/2348e52d6de9218df880d9a88ad6a5d8c2c9555c/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/Database/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/Database/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/Database/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/Database/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/Database/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/Database/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/ScriptCache/2cc80dabc69f58b6_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/ScriptCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Service Worker/ScriptCache/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Session Storage/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Session Storage/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Session Storage/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Session Storage/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Session Storage/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Session Storage/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Shortcuts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Shortcuts-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Site Characteristics Database/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Site Characteristics Database/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Site Characteristics Database/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Site Characteristics Database/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Site Characteristics Database/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Site Characteristics Database/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Sync Data/LevelDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Sync Data/LevelDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Sync Data/LevelDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Sync Data/LevelDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Sync Data/LevelDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Sync Data/LevelDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Top Sites" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Top Sites-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Translate Ranker Model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/TransportSecurity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Visited Links" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Web Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/Web Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/data_reduction_proxy_leveldb/000011.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/data_reduction_proxy_leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/data_reduction_proxy_leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/data_reduction_proxy_leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/data_reduction_proxy_leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/data_reduction_proxy_leveldb/MANIFEST-000010" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/databases/Databases.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/databases/Databases.db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/previews_opt_out.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/previews_opt_out.db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/metadata/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/metadata/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/metadata/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/metadata/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/metadata/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Default/shared_proto_db/metadata/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/DevToolsActivePort" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/First Run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Last Version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/Local State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/ShaderCache/GPUCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/ShaderCache/GPUCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/ShaderCache/GPUCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/ShaderCache/GPUCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/ShaderCache/GPUCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/chrome_debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/tanichka_kryukova/chrome_shutdown_ms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/BrowserMetrics-spare.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/BrowserMetrics/BrowserMetrics-5D1C5202-3B7C.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateRevocation/5250/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateRevocation/5250/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateRevocation/5250/crl-set" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateRevocation/5250/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateRevocation/5250/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/03019df3fd85a69a8ebd1facc6da9ba73e469774fe77f579fc5a08b8328c1d6b.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/07b75c1be57d68fff1b0c61d2315c7bae6577c5794b76aeebc613a1a69d3a21c.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/084114980071532c16190460bcfc47fdc2653afa292c72b37ff863ae29ccc9f0.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/15970488d7b997a05beb52512adee8d2e8b4a3165264121a9fabfbd5f85ad93f.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/2245450759552456963fa12ff1f76d86e0232663adc04b7f5dc6835c6ee20f02.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/293c519654c83965baaa50fc5807d4b76fbf587a2972dca4c30cf4e54547f478.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/34bb6ad6c3df9c03eea8a499ff7891486c9d5e5cac92d01f7bfd1bce19db48ef.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/35cf191bbfb16c57bf0fad4c6d42cbbbb627202651ea3fe12aefa803c33bd64c.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/41b2dc2e89e63ce4af1ba7bb29bf68c6dee6f9f1cc047e30dffae3b3ba259263.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/41c8cab1df22464a10c6a13a0942875e4e318b1b03ebeb4bc768f090629606f6.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/4494652eb0eeceafc44007d8a8fe28c0dae682bed8cb31b53fd33396b5b681a8.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/46a555eb75fa912030b5a28969f4f37d112c4174befd49b885abf2fc70fe6d47.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/51a3b0f5fd01799c566db837788f0ca47acc1b27cbf79e88429a0dfed48b05e5.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/5581d4c2169036014aea0b9b573c53f0c0e43878702508172fa3aa1d0713d30c.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/5614069a2fd7c2ecd3f5e1bd44b23ec74676b9bc99115cc0ef949855d689d0dd.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/5cdc4392fee6ab4544b15e9ad456e61037fbd5fa47dca17394b25ee6f6c70eca.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/5ea773f9df56c0e7b536487dd049e0327a919a0c84a112128418759681714558.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/63f2dbcde83bcc2ccf0b728427576b33a48d61778fbd75a638b1c768544bd88d.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/68f698f81f6482be3a8ceeb9281d4cfc71515d6793d444d10a67acbb4f4ffbc4.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/6f5376ac31f03119d89900a45115ff77151c11d902c10029068db2089a37d913.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/7461b4a09cfb3d41d75159575b2e7649a445a8d27709b0cc564a6482b7eb41a3.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/747eda8331ad331091219cce254f4270c2bffd5e422008c6373579e6107bcc56.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/7a328c54d8b72db620ea38e0521ee98416703213854d3bd22bc13a57a352eb52.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/7d3ef2f88fff88556824c2c0ca9e5289792bc50e78097f2e6a9768997e22f0d7.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/8775bfe7597cf88c43995fbdf36eff568d475636ff4ab560c1b4eaff5ea0830f.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/a4b90990b418581487bb13a2cc67700a3c359804f91bdfb8e377cd0ec80ddc10.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/a577ac9ced7548dd8f025b67a241089df86e0f476ec203c2ecbedb185f282638.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/ac3b9aed7fa9674757159e6d7d575672f9d98100941e9bdeffeca1313b75782d.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/b21e05cc8ba2cd8a204e8766f92bb98a2520676bdafa70e7b249532def8b905e.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/b3737707e18450f86386d605a9dc11094a792db1670c0b87dcf0030e7936a59a.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/bbd9dfbc1f8a71b593942397aa927b473857950aab52e81a909664368e1ed185.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/bc78e1dfc5f63c684649334da10fa15f0979692009c081b4f3f6917f3ed9b8a5.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/c652a0ec48ceb3fcab170992c43a87413309e80065a26252401ba3362a17c565.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/cdb5179b7fc1c046feea31136a3f8f002e6182faf8896fecc8b2f5b5ab604900.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/ddeb1d2b7a0d4fa6208b81ad8168707e2e8e9d01d55c888d3d11c4cdb6ecbecc.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/e2694bae26e8e94009e8861bb63b83d43ee7fe7488fba48f2893019dddf1dbfe.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/ee4bbdb775ce60bae142691fabe19e66a30f7e5fb072d88300c47b897aa8fdcb.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/eec095ee8d72640f92e3c3b91bc712a3696a097b4b6a1a1438e647b2cbedc5f9.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/f095a459f200d18240102d2f93888ead4bfe1d47e399e1d034a6b0a8aa8eb273.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/f65c942fd1773022145418083094568ee34d131933bfdf0c2f200bcc4ef164e3.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/_platform_specific/all/sths/fe446108b1d01ab78a62ccfeab6ab2b2babff3abdad80a4d8b30df2d0008830c.sth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CertificateTransparency/1170/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Crashpad/metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Crashpad/settings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/CrashpadMetrics-active.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/BudgetDatabase/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/BudgetDatabase/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/BudgetDatabase/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/BudgetDatabase/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/BudgetDatabase/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000007" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000008" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_000009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_00000a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_00000b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_00000c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/f_00000d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/00ead535da6fd484_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/01333028e61baca1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/03721d315bfeb933_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/1ec102d70716017d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/59cf6e2bcf738dd1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/5ef9002859122be0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/9b2b81daddeaa93c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/a22632da1313d623_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/aa704b42672d9c39_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/c42bc66bb644e567_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/d6a2d0c67cdc6832_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/e1903faa86ef4ffa_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Code Cache/js/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Cookies-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Current Session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Current Tabs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension Rules/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension Rules/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension Rules/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension Rules/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension Rules/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension State/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension State/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension State/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension State/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Extension State/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Favicons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Favicons-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/AvailabilityDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/AvailabilityDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/AvailabilityDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/AvailabilityDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/AvailabilityDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/EventDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/EventDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/EventDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/EventDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Feature Engagement Tracker/EventDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/GPUCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/GPUCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/GPUCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/GPUCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/GPUCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/History" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/History Provider Cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/History-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Local Storage/leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Local Storage/leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Local Storage/leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Local Storage/leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Local Storage/leveldb/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Login Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Login Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Network Action Predictor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Network Action Predictor-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Network Persistent State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Platform Notifications/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Platform Notifications/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Platform Notifications/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Platform Notifications/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Platform Notifications/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/QuotaManager" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/QuotaManager-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Secure Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Session Storage/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Session Storage/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Session Storage/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Session Storage/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Session Storage/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Shortcuts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Shortcuts-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Site Characteristics Database/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Site Characteristics Database/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Site Characteristics Database/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Site Characteristics Database/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Site Characteristics Database/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Sync Data/LevelDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Sync Data/LevelDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Sync Data/LevelDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Sync Data/LevelDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Sync Data/LevelDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Top Sites" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Top Sites-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Translate Ranker Model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/TransportSecurity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Visited Links" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Web Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/Web Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/data_reduction_proxy_leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/data_reduction_proxy_leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/data_reduction_proxy_leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/data_reduction_proxy_leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/data_reduction_proxy_leveldb/MANIFEST-000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/previews_opt_out.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/previews_opt_out.db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/shared_proto_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/shared_proto_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/shared_proto_db/metadata/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/shared_proto_db/metadata/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/shared_proto_db/metadata/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/shared_proto_db/metadata/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Default/shared_proto_db/metadata/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/DevToolsActivePort" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/FileTypePolicies/36/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/FileTypePolicies/36/download_file_types.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/FileTypePolicies/36/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/FileTypePolicies/36/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/First Run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/InterventionPolicyDatabase/2018.9.6.0/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/InterventionPolicyDatabase/2018.9.6.0/intervention_policy_database.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/InterventionPolicyDatabase/2018.9.6.0/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/InterventionPolicyDatabase/2018.9.6.0/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Last Version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Local State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/MEIPreload/1.0.5.0/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/MEIPreload/1.0.5.0/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/MEIPreload/1.0.5.0/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/MEIPreload/1.0.5.0/preloaded_data.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/PepperFlash/32.0.0.207/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/PepperFlash/32.0.0.207/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/PepperFlash/32.0.0.207/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/PepperFlash/32.0.0.207/pepflashplayer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/SSLErrorAssistant/7/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/SSLErrorAssistant/7/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/SSLErrorAssistant/7/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/SSLErrorAssistant/7/ssl_error_assistant.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ShaderCache/GPUCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ShaderCache/GPUCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ShaderCache/GPUCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ShaderCache/GPUCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ShaderCache/GPUCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Subresource Filter/Indexed Rules/26/9.1/Ruleset Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Subresource Filter/Unindexed Rules/9.1/Filtering Rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Subresource Filter/Unindexed Rules/9.1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Subresource Filter/Unindexed Rules/9.1/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Subresource Filter/Unindexed Rules/9.1/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/Subresource Filter/Unindexed Rules/9.1/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ThirdPartyModuleList32/2018.7.19.1/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ThirdPartyModuleList32/2018.7.19.1/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ThirdPartyModuleList32/2018.7.19.1/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/ThirdPartyModuleList32/2018.7.19.1/module_list_proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/chrome_debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/chrome_shutdown_ms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_metadata/verified_contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_pnacl_json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_for_eh_o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtend_o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_ld_nexe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libcrt_platform_a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libgcc_a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_dummy_a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_llc_nexe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_sz_nexe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/manifest.fingerprint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browser/yaska_zuufina/pnacl/0.57.44.2492/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver_75.0.3770.90.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-server-standalone-3.141.59.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/GUI/Chart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/GUI/Entity/Relevance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/GUI/Method/HintTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/GUI/Method/ShareJPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/GUI/Method/ShareMouseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/GUI/StartComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Instagram-automation.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Chart$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Chart$1FeedIn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Chart$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Chart$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Chart$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Chart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Entity/Relevance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Method/HintTextField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Method/ShareJPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/Method/ShareMouseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/GUI/StartComment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/url.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/GUI/StartComment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/GUI/Chart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="229" column="10" selection-start-line="229" selection-start-column="10" selection-end-line="229" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#8404#8539#0" expanded="true" />
+                <element signature="e#8538#8539#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add(</find>
+      <find>new BoxLayout(</find>
+      <find>createHorizontal</find>
+      <find>BoxLayout(</find>
+      <find>firePropertyChange</find>
+      <find>firePropertyChange(</find>
+      <find>readObject(</find>
+      <find>this.source</find>
+      <find>EventObject(</find>
+      <find>ACTION_PERFORMED</find>
+      <find>APPROVE_OPTION</find>
+      <find>Listener(</find>
+      <find>JList(</find>
+      <find>addMouseListener</find>
+      <find>relevance</find>
+      <find>user</find>
+      <find>RemoteWebDriver(CommandExecutor executor, Capabilities capabilities) {</find>
+      <find>RemoteWebDriver(</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/GUI/Method/HintTextField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/GUI/Method/Share.java" />
+        <option value="$PROJECT_DIR$/url.txt" />
+        <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/GUI/Method/ShareJPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/GUI/Method/ShareMouseListener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/GUI/Entity/Relevance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/GUI/Chart.java" />
+        <option value="$PROJECT_DIR$/user.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/GUI/StartComment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="9" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="9" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1038" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Instagram-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagram-automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagram-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagram-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagram-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagram-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Instagram-automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Instagram-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24942529" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AddProject\Instagram-automation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Chart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.GUI.Chart" />
+      <module name="Instagram-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Instagram-automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Chart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd96b45-516c-4d07-86bf-f164648ac9a7" name="Default Changelist" comment="" />
+      <created>1561712931281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561712931281</updated>
+      <workItem from="1561712932583" duration="17460000" />
+      <workItem from="1561945276391" duration="33041000" />
+      <workItem from="1562048326065" duration="1211000" />
+      <workItem from="1562049985991" duration="16109000" />
+      <workItem from="1562118241323" duration="5024000" />
+      <workItem from="1562123829121" duration="7293000" />
+      <workItem from="1562139925641" duration="584000" />
+      <workItem from="1562142824281" duration="2478000" />
+      <workItem from="1562145374980" duration="2072000" />
+      <workItem from="1562147527318" duration="191000" />
+      <workItem from="1562147749568" duration="728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="86191000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.17377399" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.2646421" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.4989339" visible="true" weight="0.2646421" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.29584223" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/filechooser/FileFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="57" column="72" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/awt/AWTEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="403" column="49" lean-forward="true" selection-start-line="403" selection-start-column="49" selection-end-line="403" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="183" column="22" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
+          <folding>
+            <element signature="e#62338#62339#0" expanded="true" />
+            <element signature="e#62391#62392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/util/EventObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="23" />
+          <folding>
+            <element signature="e#1329#1330#0" expanded="true" />
+            <element signature="e#1358#1359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/plaf/FileChooserUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/JFileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="479" column="16" selection-start-line="479" selection-start-column="16" selection-end-line="479" selection-end-column="16" />
+          <folding>
+            <element signature="e#15769#15770#0" expanded="true" />
+            <element signature="e#15804#15805#0" expanded="true" />
+            <element signature="e#51132#51133#0" expanded="true" />
+            <element signature="e#51163#51164#0" expanded="true" />
+            <element signature="e#57838#57839#0" expanded="true" />
+            <element signature="e#57895#57896#0" expanded="true" />
+            <element signature="e#62270#62271#0" expanded="true" />
+            <element signature="e#62302#62303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/awt/event/ActionEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="97" column="65" selection-start-line="97" selection-start-column="65" selection-end-line="97" selection-end-column="65" />
+          <folding>
+            <element signature="e#8372#8373#0" expanded="true" />
+            <element signature="e#8408#8409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/WindowConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="81" column="41" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31540">
+          <caret line="1754" column="50" selection-start-line="1754" selection-start-column="50" selection-end-line="1754" selection-end-column="50" />
+          <folding>
+            <element signature="e#35456#35457#0" expanded="true" />
+            <element signature="e#35491#35492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="519" column="16" selection-start-line="519" selection-start-column="16" selection-end-line="519" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/JList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="450" column="17" selection-start-line="450" selection-start-column="11" selection-end-line="450" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="400" column="33" selection-start-line="400" selection-start-column="33" selection-end-line="400" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/awt/event/WindowListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="60" column="45" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="110" column="71" lean-forward="true" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="317" column="29" lean-forward="true" selection-start-line="317" selection-start-column="29" selection-end-line="317" selection-end-column="29" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#10907#10908#0" expanded="true" />
+            <element signature="e#10945#10946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="125" column="62" lean-forward="true" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/GUI/Method/HintTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/GUI/Method/ShareJPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/GUI/Method/ShareMouseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/awt/event/MouseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <element signature="e#4931#4932#0" expanded="true" />
+            <element signature="e#4970#4971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/ButtonGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="76" column="7" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding>
+            <element signature="e#3834#3835#0" expanded="true" />
+            <element signature="e#3866#3867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/ButtonModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="75" column="42" selection-start-line="75" selection-start-column="42" selection-end-line="75" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/awt/ItemSelectable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/JToggleButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="78" column="41" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/JRadioButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="91" column="25" lean-forward="true" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="339" column="26" lean-forward="true" selection-start-line="339" selection-start-column="26" selection-end-line="339" selection-end-column="26" />
+          <folding>
+            <element signature="e#36388#36389#0" expanded="true" />
+            <element signature="e#36446#36447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="395" column="10" selection-start-line="395" selection-start-column="10" selection-end-line="395" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/GUI/Entity/Relevance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="18" column="69" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="856" column="76" lean-forward="true" selection-start-line="853" selection-start-column="7" selection-end-line="856" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="202" lean-forward="true" selection-start-line="202" selection-end-line="202" />
+          <folding>
+            <element signature="e#6309#6310#0" expanded="true" />
+            <element signature="e#6355#6356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="334" column="38" lean-forward="true" selection-start-line="334" selection-start-column="38" selection-end-line="334" selection-end-column="38" />
+          <folding>
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/SearchContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/CommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+          <folding>
+            <element signature="e#2511#2512#0" expanded="true" />
+            <element signature="e#2559#2560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar!/org/openqa/selenium/chrome/ChromeDriverCommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/HttpCommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="119" column="11" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/GUI/StartComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/GUI/Chart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="229" column="10" selection-start-line="229" selection-start-column="10" selection-end-line="229" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8404#8539#0" expanded="true" />
+            <element signature="e#8538#8539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24942529" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24942529" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24942529" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24942529" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24942529" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Instagram-automation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24942529" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24942529" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24942529" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
