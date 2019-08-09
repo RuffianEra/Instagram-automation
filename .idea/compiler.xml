@@ -9,8 +9,5 @@
         <module name="Instagram-automation" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Instagram-automation" target="9" />
-    </bytecodeTargetLevel>
   </component>
 </project>

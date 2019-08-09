@@ -1,34 +1,32 @@
 package com.GUI.Entity;
 
+import java.util.List;
+
 public class Relevance {
 
     private String user;
 
     private String password;
 
-    private String url;
-
-    private String data;
-
     private boolean on_off;
+
+    private List<URLData> urlData;
+
+    private String website;
 
     /** 代理待设置 */
     //private Proxy;
 
-    public Relevance(String[] users, String url, String data){
-        this(users[0], users[1], users[2].equals("true"), url, data);
+    public Relevance(String[] users, List<URLData> urlData){
+        this(users[0], users[1], users[2].equals("true"), users[3],urlData);
     }
 
-    public Relevance(String user, String password, String url, String data){
-        this(user, password, true, url, data);
-    }
-
-    public Relevance(String user, String password, boolean on_off, String url, String data){
+    public Relevance(String user, String password, boolean on_off, String website, List<URLData> urlData){
         this.user = user;
         this.password = password;
-        this.url = url;
-        this.data = data;
+        this.urlData = urlData;
         this.on_off = on_off;
+        this.website = website;
     }
 
     public String getUser() {
@@ -47,22 +45,6 @@ public class Relevance {
         this.password = password;
     }
 
-    public String getUrl() {
-        return url;
-    }
-
-    public void setUrl(String url) {
-        this.url = url;
-    }
-
-    public String getData() {
-        return data;
-    }
-
-    public void setData(String data) {
-        this.data = data;
-    }
-
     public boolean isOn_off() {
         return on_off;
     }
@@ -71,14 +53,28 @@ public class Relevance {
         this.on_off = on_off;
     }
 
+    public List<URLData> getUrlData() {
+        return urlData;
+    }
+
+    public void setUrlData(List<URLData> urlData) {
+        this.urlData = urlData;
+    }
+
+    public String getWebsite() {
+        return website;
+    }
+
+    public void setWebsite(String website) {
+        this.website = website;
+    }
+
+    public String getUserTxt(){
+        return user + "," + password + "," + on_off + "," + website;
+    }
+
     @Override
     public String toString() {
-        return "Relevance{" +
-                "user='" + user + '\'' +
-                ", password='" + password + '\'' +
-                ", url='" + url + '\'' +
-                ", data='" + data + '\'' +
-                ", on_off=" + on_off +
-                '}';
+        return "user=" + user + ",   ------------  password=" + password + ",   ------------  on_off=" + on_off + ",   ------------  website=" + website + ",   ------------  urlData=" + urlData;
     }
 }

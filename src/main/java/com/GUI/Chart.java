@@ -1,7 +1,9 @@
 package com.GUI;
 
 import com.GUI.Entity.Relevance;
+import com.GUI.Entity.URLData;
 import com.GUI.Method.HintTextField;
+import com.GUI.Method.ReadFile;
 import com.GUI.Method.ShareJPanel;
 import com.GUI.Method.ShareMouseListener;
 
@@ -10,77 +12,12 @@ import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
-import java.util.*;
-import java.util.List;
+import java.util.Map;
 
 public class Chart extends JFrame {
-    /** 自动读取用户帐号和密码 */
-    public static Map<String, String[]> user = new HashMap<>();
-    /** 自动读取评论地址 */
-    public static List<String> url = new ArrayList<>();
-    public static List<Integer> urls = new ArrayList<>();
-    /** 自动读取评论数据 */
-    public static List<String> data = new ArrayList<>();
-    public static List<Integer> datas = new ArrayList<>();
-    /** 用户集 */
-    public static Map<String, Relevance> relevance = new HashMap<>();
-
-    /**
-     * 自动读取文件
-     */
-    public static void autoRead() {
-        try{
-            BufferedReader mapRead = new BufferedReader(new InputStreamReader(new FileInputStream(System.getProperty("user.dir") + "\\user.txt")));
-            String mapString = null;
-            while((mapString = mapRead.readLine()) != null) {
-                String[] str = mapString.split(",");
-                user.put(str[0], str);
-            }
-
-            BufferedReader urlRead = new BufferedReader(new InputStreamReader(new FileInputStream(System.getProperty("user.dir") + "\\url.txt")));
-            while((mapString = urlRead.readLine()) != null) {
-                url.add(mapString);
-            }
-
-            BufferedReader dataRead = new BufferedReader(new InputStreamReader(new FileInputStream(System.getProperty("user.dir") + "\\data.txt")));
-            while((mapString = dataRead.readLine()) != null) {
-                data.add(mapString);
-            }
-        }
-        catch (FileNotFoundException fe) {
-            System.out.println(fe.getLocalizedMessage());
-        }
-        catch (IOException ioe) {
-            System.out.println(ioe.getLocalizedMessage());
-        }
-    }
-
-    /**
-     * 随机为用户分配评论地址和评论数据
-     */
-    public static void autoMatching() {
-        for(String key:user.keySet()) {
-            relevance.put(key, new Relevance(user.get(key), random(urls, url), random(datas, data)));
-        }
-    }
-
-    public static String random(List<Integer> size, List<String> set) {
-        if(size.size() == set.size()){ size.clear(); }
-
-        while(true){
-            int number =  (int)(Math.random() * set.size());
-            if(!size.contains(number)) {
-                size.add(number);
-                return set.get(number);
-            }
-        }
-    }
 
     public static void main(String[] args) {
-        /** 自动获取数据并随机分配 */
-        autoRead();
-        autoMatching();
-
+        ReadFile.fixedMatching();
         try {
             Runtime.getRuntime().exec(System.getProperty("user.dir") + "\\chromedriver_75.0.3770.90.exe");
             UIManager.setLookAndFeel(new NimbusLookAndFeel());
@@ -97,7 +34,7 @@ public class Chart extends JFrame {
 
     public Chart() {
         this.setBounds(200, 150, 800, 600);
-        this.setTitle("Instagram自动化评论");
+        this.setTitle("facebook   instagram 自动评论系统");
 
         JSplitPane one = new JSplitPane(JSplitPane.VERTICAL_SPLIT, this.top(), this.centre());
         one.setResizeWeight(0.3);
@@ -105,6 +42,29 @@ public class Chart extends JFrame {
         two.setResizeWeight(0.8);
 
         this.add(two);
+        this.addWindowListener(new WindowListener() {
+            public void windowOpened(WindowEvent e) { }
+            public void windowClosing(WindowEvent e) {
+                try{
+                    BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(System.getProperty("user.dir") + "\\user.txt", false)));
+                    for(Map.Entry entry:ReadFile.relevanceMap.entrySet()){
+                        Relevance rel = (Relevance) entry.getValue();
+                        writer.write(rel.getUserTxt() + "\n");
+                        System.out.println(rel.getUserTxt());
+                    }
+                    writer.close();
+                }
+                catch (IOException e2) {
+                    e2.printStackTrace();
+                }
+                Chart.this.setDefaultCloseOperation(EXIT_ON_CLOSE);             //退出窗口时关闭程序
+            }
+            public void windowClosed(WindowEvent e) { }
+            public void windowIconified(WindowEvent e) { }
+            public void windowDeiconified(WindowEvent e) { }
+            public void windowActivated(WindowEvent e) { }
+            public void windowDeactivated(WindowEvent e) { }
+        });
     }
 
     JButton save = new JButton("保存");
@@ -112,7 +72,7 @@ public class Chart extends JFrame {
 
     /** 头部面板 */
     public JPanel top() {
-        JButton toLead = new JButton("文本导入");
+        /*JButton toLead = new JButton("文本导入");
         toLead.addMouseListener(new ShareMouseListener() {
             public void mouseClicked(MouseEvent e) {
                 JFileChooser file = new JFileChooser();
@@ -132,7 +92,7 @@ public class Chart extends JFrame {
                     }
                 }
             }
-        });
+        });*/
 
         JPanel top = new JPanel();
         top.setMinimumSize(new Dimension());
@@ -148,18 +108,29 @@ public class Chart extends JFrame {
 
     /** 中间面板 */
    public JSplitPane centre() {
-       Object[] objects = user.keySet().toArray();
+       Object[] objects = ReadFile.user.keySet().toArray();
        JList<Object> jList = new JList<>(objects);
 
        /** 评论地址 */
        JPanel site = ShareJPanel.getJPanel("评论地址");
-       JTextField siteFrame = new JTextField();
+       JComboBox siteFrame = new JComboBox();
        site.add(siteFrame);
 
        /** 评论数据 */
        JPanel data = ShareJPanel.getJPanel("评论数据");
        JTextField dataFrame = new JTextField();
        data.add(dataFrame);
+
+       siteFrame.addItemListener((ItemEvent e) -> {
+           if(e.getStateChange() == ItemEvent.SELECTED){
+               System.out.println(e.getItem());
+               for(URLData urlData:ReadFile.relevanceMap.get(jList.getSelectedValue()).getUrlData()){
+                   if(urlData.url.equals(e.getItem())){
+                       dataFrame.setText(urlData.data);
+                   }
+               }
+           }
+       });
 
        /** 评论开关 */
        JPanel on_off = ShareJPanel.getJPanel("评论开关");
@@ -202,40 +173,41 @@ public class Chart extends JFrame {
 
        class FeedIn{
            /** 输入 */
-           public void in(List<Object> list) {
-               for(Object obj:list){
-                   Relevance rel = relevance.get(obj);
-                   System.out.println(rel);
-                   siteFrame.setText(rel.getUrl());
-                   dataFrame.setText(rel.getData());
-                   (rel.isOn_off()?off:on).setSelected(true);
+           public void in(Object obj) {
+               Relevance rel = ReadFile.relevanceMap.get(obj);
+               System.out.println(rel);
+               siteFrame.removeAllItems();
+               for(URLData urlData:rel.getUrlData()){
+                   siteFrame.addItem(urlData.url);
                }
+               dataFrame.setText(rel.getUrlData().get(0).data);
+               (rel.isOn_off()?off:on).setSelected(true);
            }
            /** 输出 */
-           public void out(List<Object> list) {
-               for(Object obj:list) {
-                   Relevance rel = relevance.get(obj);
-                   rel.setUrl(siteFrame.getText());
-                   rel.setData(dataFrame.getText());
-                   rel.setOn_off(Boolean.getBoolean(group.getSelection().getActionCommand()));
+           public void out(Object obj) {
+               Relevance relevance = ReadFile.relevanceMap.get(obj);
+               for(URLData urlData:relevance.getUrlData()){
+                   if(urlData.url.equals(siteFrame.getSelectedItem())){
+                       dataFrame.setText(urlData.data);
+                       urlData.data = dataFrame.getText();
+                   }
                }
+               relevance.setOn_off(group.getSelection().getActionCommand().equals("true"));
            }
        }
        FeedIn feedIn = new FeedIn();
 
        jList.addMouseListener(new ShareMouseListener() {
            public void mouseClicked(MouseEvent e) {
-               feedIn.in(jList.getSelectedValuesList());
+               feedIn.in(jList.getSelectedValue());
            }
        });
 
-       /*JButton save = new JButton("保存");
-       JButton start = new JButton("开始评论");*/
        /** 添加保存事件 */
        save.addMouseListener(new ShareMouseListener() {
            public void mouseClicked(MouseEvent e) {
-               List<Object> user = jList.getSelectedValuesList();
-               if(!user.isEmpty()){ feedIn.out(user); }
+               Object user = jList.getSelectedValue();
+               if(!(user == null)){ feedIn.out(user); }
            }
        });
        /** 添加评论事件 */
